@@ -43,7 +43,7 @@ dependencies {
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
-    implementation("org.mozilla.geckoview:geckoview-omni:139.0.20250603165925")
+    implementation("org.mozilla.geckoview:geckoview-arm64-v8a:139.0.20250603165925")
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.compose.ui)
     implementation(libs.androidx.compose.ui.graphics)
